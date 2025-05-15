@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Книги/КП ДСЭ - Ливинский Эдуард - сборник лекций/Лекция 1/1_lesson/","contentClasses":"fullwidth","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/knigi/kp-dse-livinskij-eduard-sbornik-lekczij/lekcziya-1/1-lesson/","contentClasses":"fullwidth","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Лекция 1
